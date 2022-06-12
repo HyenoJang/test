@@ -26,6 +26,6 @@ spec:
                 - production
       containers:
         - name: myweb
-          image: ppqq122333/tomcat:3
+          image: ppqq122333/tomcat:4
           ports:
             - containerPort: 8085
