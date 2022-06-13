@@ -26,6 +26,6 @@ spec:
                 - production
       containers:
         - name: myweb
-          image: nc7018/tomcat:2
+          image: nc7018/tomcat:3
           ports:
             - containerPort: 8085
